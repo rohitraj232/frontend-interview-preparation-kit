@@ -63,12 +63,12 @@ Use the templates in `CONTRIBUTING.md`. Prefer clear naming, simple explanations
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-**Frontend:** React.js, Next.js, React Router, Redux Toolkit, Context API
-**Styling:** Tailwind CSS, Bootstrap, Responsive Design
-**APIs & Networking:** REST APIs, Fetch API, Axios, Async JavaScript
-**Testing:** Jest, React Testing Library
-**Tools:** Git, GitHub, Node.js, npm, Vite, Postman, Browser DevTools
+**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
+**Frontend:** React.js, Next.js, React Router, Redux Toolkit, Context API  
+**Styling:** Tailwind CSS, Bootstrap, Responsive Design  
+**APIs & Networking:** REST APIs, Fetch API, Axios, Async JavaScript  
+**Testing:** Jest, React Testing Library  
+**Tools:** Git, GitHub, Node.js, npm, Vite, Postman, Browser DevTools  
 **Core Interview Topics:** Data Structures & Algorithms, JavaScript Polyfills, Frontend System Design, Machine Coding, Web Performance, Core Web Vitals, Accessibility, and SEO
 
 ## 🚦 Getting Started
