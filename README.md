@@ -76,7 +76,7 @@ Use the templates in `CONTRIBUTING.md`. Prefer clear naming, simple explanations
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/frontend-interview-preparation-kit.git
+git clone https://github.com/rohitraj232/frontend-interview-preparation-kit.git
 ```
 
 ### 2. Navigate to the project
