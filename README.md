@@ -126,7 +126,6 @@ For every coding problem:
 <!-- ## 🧩 React Machine Coding
 
 This repository focuses on interview preparation, concepts, algorithms, and revision.
-
 Practical React machine-coding projects are maintained separately in my **React Machine Coding** repository.
 
 Planned challenges include:
